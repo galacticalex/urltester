@@ -63,6 +63,12 @@
             (print (nth startupErrors 2))
             false)))))
 
+;; here be optimizations
+
+; goal: rather than check a match as it is found, parse entire file, then check unique matches
+
+;;
+
 
 (defn -main
   "This, is the entry point to the program."
