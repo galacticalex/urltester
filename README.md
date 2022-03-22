@@ -46,6 +46,12 @@ This project is released under [MIT](https://mit-license.org) with the following
 
 > Copyright (c) 2013 M. Lee Hinman
 
+#### [data.csv](https://github.com/clojure/data.csv) version 1.0.0
+
+This project is released under [EPL-1.0](https://www.eclipse.org/legal/epl-v10.html) with the following copyright notice:
+
+> Copyright (c) Jonas Enlund, Rich Hickey, and contributors, 2012-2020.
+
 ## Contact
 
 :house_with_garden: Orcro Ltd. team@orcro.co.uk
